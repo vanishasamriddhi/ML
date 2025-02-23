@@ -1,0 +1,35 @@
+{
+  "build": "h9a6d368_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "__osx >=11.0",
+    "liblzma 5.6.4 h39f12f2_0",
+    "liblzma-devel 5.6.4 h39f12f2_0",
+    "xz-gpl-tools 5.6.4 h9a6d368_0",
+    "xz-tools 5.6.4 h39f12f2_0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/xz-5.6.4-h9a6d368_0",
+  "files": [],
+  "fn": "xz-5.6.4-h9a6d368_0.conda",
+  "license": "0BSD AND LGPL-2.1-or-later AND GPL-2.0-or-later",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/xz-5.6.4-h9a6d368_0",
+    "type": 1
+  },
+  "md5": "b6e676c2c7fde19f56e052acb6acc540",
+  "name": "xz",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/xz-5.6.4-h9a6d368_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0ca773e9d3af963414ac9d78c699c5048902bd336fbc989480c5e8a297cfcd10",
+  "size": 23661,
+  "subdir": "osx-arm64",
+  "timestamp": 1738525523000,
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/xz-5.6.4-h9a6d368_0.conda",
+  "version": "5.6.4"
+}
